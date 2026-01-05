@@ -7,7 +7,7 @@
 
 **École Nationale Supérieure Polytechnique de Yaoundé**  
 Département de Génie Informatique - 5GI  
-Instructeurs: Louis Fippo Fitime, Claude Tinku, Kerolle Sonfack
+Instructeurs: Dr Louis Fippo
 
 Ce projet implémente le **TP3 sur les réseaux de neurones convolutifs (CNN)** avec un pipeline MLOps complet. Il couvre la classification d'images avec CIFAR-10, les architectures ResNet avec skip connections, et le style transfer neuronal avec VGG16.
 
